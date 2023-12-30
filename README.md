@@ -1,2 +1,2 @@
-# aocalux.com
-Weiterleitung auf Private Seite
+# aocalux.dev
+Weiterleitung für mail weil .dev Domains https erfordern.
